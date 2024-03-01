@@ -1,9 +1,20 @@
+<img align="center" alt="header" src="https://64.media.tumblr.com/629659fbd3823d5477952a02c29accea/c87d86555acb1c27-41/s1280x1920/5b3a9eb78af10758ebbf54c28b225fd583098c8a.gif">
+
 <h1 align="center">Hi 👋, I'm Kaurakoch Sriunprasert</h1>
-<h3 align="center">A passionate frontend developer from Thailand</h3>
+<h3 align="center">A passionate Fullstack developer from Thailand</h3>
 <img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9100d753-02ac-4ed8-ac98-5e45d6deecad/depxc3c-2c74dc75-552f-4b74-9d49-a01ec4c8ea90.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzkxMDBkNzUzLTAyYWMtNGVkOC1hYzk4LTVlNDVkNmRlZWNhZFwvZGVweGMzYy0yYzc0ZGM3NS01NTJmLTRiNzQtOWQ0OS1hMDFlYzRjOGVhOTAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ACqc7kQ3zva5d9HmQ6rAM2TWKQ_6KA_YgK4pzBCzpbo">
+
+- 🔭 I’m currently working on **Senior-Project**
+
+- 🌱 I’m currently learning **Angular, Express**
+
+- 📫 How to reach me **kaurakoch.s@gmail.com**
+
+- ⚡ Fun fact **hahaha**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/night_haw.k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="night_haw.k" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
